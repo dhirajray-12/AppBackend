@@ -11,6 +11,7 @@ Client accounts, payments, MT5 trade sync, copy trading, PAMM, IB commissions an
 ![Stripe](https://img.shields.io/badge/Payments-Stripe-635BFF?logo=stripe&logoColor=white)
 ![JWT](https://img.shields.io/badge/Auth-JWT_+_CSRF-000000?logo=jsonwebtokens&logoColor=white)
 ![Relaya](https://img.shields.io/badge/Webhooks-Relaya-14b886)
+[![License: MIT](https://img.shields.io/badge/License-MIT-14b886.svg)](LICENSE)
 
 [Features](#-features) · [Architecture](#-architecture) · [Getting started](#-getting-started) · [Configuration](#-configuration) · [API](#-api-overview) · [Scripts](#-scripts)
 
@@ -282,6 +283,12 @@ For request and response shapes, see [BACKEND_NOTES.md](BACKEND_NOTES.md).
 | [crmFrontend](https://github.com/dhirajray-12/crmFrontend) | React + TypeScript web client |
 | [App](https://github.com/dhirajray-12/App) | Flutter mobile and desktop client |
 | [Relaya](https://github.com/dhirajray-12/relaya) | Webhook reliability platform used for Stripe events |
+
+---
+
+## 📄 License
+
+Released under the [MIT License](LICENSE).
 
 ---
 
